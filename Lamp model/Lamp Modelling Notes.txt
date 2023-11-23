@@ -1,0 +1,20 @@
+Screenshot 1 - Beginning of modelling a japanese temple lamp starting with a cube as tge beginning of the build
+
+Screenshot 2 - Added Edit Poly and Symmetry modifier to evenly form the shape of the cube to my desired result
+
+Screenshot 3 - Used Inset and extrude to place an indent in the cube for where the lamp windows will be
+
+Screenshot 4 - Added four more elongated cubes to surround the base of the lamp
+
+Screenshot 5 - Added a flat cube to sit the lamp and base on top of
+
+Screenshot 6 - Added a long box for the roof and changed the pivot point to centre and duplicate by using the shift key copy to duplicate and rotate the box down the modified 
+axis to create a roof slope
+
+Screenshot 7 - shaped the box using edit poly to pull the vertices down and fill the gap and remove protrusions from the roof
+
+
+TRY THESE
+NOTE -- USE A SPLINE TO DRAW ROOF SHAPE AND FORM THE CURRECT CURVE USE DRAWING TABLET TO DO SO PLUS REFERENCE IMAGE
+
+NOTE __ USE SWIFT LOOP AND TURBO SMOOTH TO MAKE THE ROOF CURVATURE IANS SUGGESTION
