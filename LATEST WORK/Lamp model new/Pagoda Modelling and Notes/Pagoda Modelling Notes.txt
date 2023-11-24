@@ -1,0 +1,32 @@
+Beginning Pagoda Modelling in Blender
+
+
+Screenshot 1 - added three cubes to represent the base of the pagoda, the main tower that will extend upwards and the stairs leading up to it and then used scaleing and moved some vertices to change their size and shape slightly
+
+Screenshot 2 - Added an additional rectangle and inset the top of the rectangle where i will create the roof of the pagoda.
+
+Screenshot 3 Added additional geometry with loop cut (Swift loop) and then used the move tool to create a basic jagged riif structure
+
+Screenshot 4 - Added edge creases to the border of the roof (purple highlights) to stop them from being smoothed later on when adding a subdivision (turbosmooth) modifier
+
+Screenshot 5 - Added a Subdivision modifier to smooth the curvature of the roof
+
+Screenshot 6 - Insetting Bottom section of Pagoda to prepare for addition of greater details later on
+
+Screenshot 7 Extruded Faces along normals using extrude tool to form an opening for the door
+
+Screenshot 8 - Made a cube used loop cut (swift loop to cut into the shape of a fence and deleted the space between the poles
+
+Screensgot 9 - Selecting four disconnected vertices and using the fill tool to add geometry so that the fence post dont have gaps in them from wwhere they were cut out of a single cube
+
+Screenshot 10 - Filled in all visible areas with faces adjusted thickness of the fence and didnt apply fiilling to the bottom fence areas as they wouldnt be seen 
+
+Screenshot 11 - Extruded Part of the fence and added a sphere as an adornment to one side
+
+Screenshot 12 - Un Subdivied the sphere object to decrease poly count which was far too high because of the level of detail of the sphere
+
+Screenshot 13 - Delete faces on the sphere that were obscured by the railing to save poly count and increase rendering efficiency
+
+Screenshot 14 - Duplicated Fences and joined together into a left right section using the duplication tool and the join tool to fuse together to create the railings
+
+Screenshot 15 - Duplicated roof and main body and stacked on top to make next layer for later editing 
