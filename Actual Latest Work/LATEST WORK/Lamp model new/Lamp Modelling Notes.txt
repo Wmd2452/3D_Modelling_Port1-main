@@ -1,0 +1,44 @@
+Screenshot 1 - Beginning of modelling a japanese temple lamp starting with a cube as tge beginning of the build
+
+Screenshot 2 - Added Edit Poly and Symmetry modifier to evenly form the shape of the cube to my desired result
+
+Screenshot 3 - Used Inset and extrude to place an indent in the cube for where the lamp windows will be
+
+Screenshot 4 - Added four more elongated cubes to surround the base of the lamp
+
+Screenshot 5 - Added a flat cube to sit the lamp and base on top of
+
+Screenshot 6 - Added a long box for the roof and changed the pivot point to centre and duplicate by using the shift key copy to duplicate and rotate the box down the modified 
+axis to create a roof slope
+
+Screenshot 7 - shaped the box using edit poly to pull the vertices down and fill the gap and remove protrusions from the roof
+
+Screenshot 8 - Adjusted Curvature of roof using the swift loop and move tool  made roof slightly larger with scale tools and added some additional rectangles as adornments
+
+Screenshot 9 - Added a Turbo smooth modifier to smooth geometry on the roof
+
+Switched to Blender
+
+Screenshot 9 - Added a rectangle and used loop cut (swift loop) to add more edged then used the bevel tool (chamfer) to smooth out the deges to create the edge pattern
+
+Screenshot 10 - Shrunk The size of the edited rectangle and added a mirror modifier to duplicate the geometry on all four corners of the center pillar to create a stand for the lamp base
+
+Screenshot 11 - Used the join operation to join the two halves of the roof into one object
+
+Screenshot 12 - Added a cuve created more geometry on said cube using loop cut tool (line loop) to add geometry then used the move tool create an ornament that hangs from the roof
+
+Screenshot 13 - Used bevel edges (Chamfer) to smooth hard edges and used a mirror modifier to mirror a version of the object on the opposite side of the roof
+
+Screenshot 14  and 15 - Deleting Hidden faces to save on ploy count and increase rendering efficiency
+
+Screenshot 16 - Used Shrink / Flatten tool to fatten the base of the pole so that it tapers into a larger cylinder as it goes further down Then added a cube at the bottom deleted bottom face as it wouldnt ever be seen and joined both the rectangle base and the fattened suppourt pole
+
+Switched to working in 3ds max for the lab
+
+Screenshot 17 - Begun UV Unwrapping process
+
+Screenshot 18 - Removed some unecessary faces that were concealed by other parts of the model
+
+Screenshot 19 - Stitching parts of the UV map together to reduce unecessary islands and create more continuous texturing
+
+Screenshot 20 - More Stitching of UV maps
