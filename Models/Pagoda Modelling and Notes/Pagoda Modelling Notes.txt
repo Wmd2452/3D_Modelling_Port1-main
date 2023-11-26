@@ -30,3 +30,28 @@ Screenshot 13 - Delete faces on the sphere that were obscured by the railing to 
 Screenshot 14 - Duplicated Fences and joined together into a left right section using the duplication tool and the join tool to fuse together to create the railings
 
 Screenshot 15 - Duplicated roof and main body and stacked on top to make next layer for later editing 
+
+Screenshot 16 - Used a swift loop to create geometry along the base and then extruded the faces inwards to create a ridge along the base
+
+Screenshot 17 - Inset faces to add more geometry and then used the extrude tool to create the indentations for the window
+
+Screenshot 18 - Duplicated different segments to create more leayers
+
+Screenshot 19 - Extruded and caled the top roof to give it a more pyramid like shape
+
+Screenshot 20 - Removing unecessary faces
+
+Screenshot 21 - Subdivided a cube and cut out the shape of stairs using face select and delete tool to make stair effect
+
+Screenshot 22 - Using fill tool to fill in the gaps where the stairs should be
+
+Screenshot 23 - Deleting Unecessary Geometry
+
+Screenshot 24 - extruded the outside portion upwards then used the move tool to push the edges down to form a slope
+
+Screenshot 25 - used merge tool to merge the vertices together
+
+Screenshot 26 - Added railings to the stairs 
+
+About 9K polys atm
+
