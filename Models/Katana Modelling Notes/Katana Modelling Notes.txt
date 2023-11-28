@@ -53,3 +53,20 @@ Screenshot 26 - Used the scale tool to elongate the handle cylinder to better re
 Screenshot 27 - Deleted the face of top handle as it will never be seen
 
 End OF Modelling Section 424 polys
+
+Texturing
+
+Screenshot 32 - exporting UVW Map as an image file for texturing
+
+Screenshot 33 - begin making a metallic texture by adding some gaussian noise to a dark background 
+
+Screenshot 34 - Adding motion blur create a more rough looking metallic surface
+
+Screenshot 35 - Applied a gray gradient on the layer above and changed the layer settings to overlay to give a more grayish effect
+
+Screenshot 36 - Increased brightness and lowered contrast  in the properties menu to achieve a brighter and less grainy effect
+
+Screenshot 37 - Added a Mandala Symmetry modifier to photoshop to create the gaurd pattern for the katana
+
+Screenshot 38 - Drew Gaurd Pattern
+
