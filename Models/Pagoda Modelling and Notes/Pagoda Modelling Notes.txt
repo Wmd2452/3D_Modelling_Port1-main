@@ -55,3 +55,19 @@ Screenshot 26 - Added railings to the stairs
 
 About 9K polys atm
 
+
+Sorting UV Maps in blender
+
+Screenshot 27 - Added a basic checkerboard texture to the model for testing purposes when unwrapping later on
+
+Screenshot 28 - Uses Smart UV Unwrap to unwrap one of the segments of the model to begin sorting the UV map
+
+Screenshot 29 - Stitching Connecting edges to ensure a seamless texture across the object
+
+Screenshot 30 - More Stitching
+
+Screenshot 31 - Finished Sorting first Segment
+
+Screenshot 32 - Stitched and unwrapped stairs portion of pagoda as well as deleting a few unecessary faces round the back
+
+Screenshot 33 - Stitched and unwrapped roof part of the model

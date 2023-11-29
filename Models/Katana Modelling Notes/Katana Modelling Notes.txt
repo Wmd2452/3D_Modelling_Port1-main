@@ -70,3 +70,36 @@ Screenshot 37 - Added a Mandala Symmetry modifier to photoshop to create the gau
 
 Screenshot 38 - Drew Gaurd Pattern
 
+Screenshot 39 - Duplicated Gaurd pattern
+
+making gold textture
+
+Screenshot 40 - Begin making gold texture by taking a stock image from adobe stock (will need to refrence in report probably)
+
+Screenshot 41 - Added Gaussian blur
+
+Screenshit 42 - Used Liquify tool to create a random pattern for the gold
+
+Screenshot 43 - Used Filter tool to apply distortion and create a more textured looking surface
+
+Screenshot 44 - Used a gradient map to choose more yellow and brown colours to create a golden effect
+
+Screenshot 45 - Applied gold texture to the various parts that will use it
+
+Making fabric Texture for handle
+
+Screenshot 46 - Takeing a base colour and applying noise to begin the process of creating a fabric texture
+
+Screenshot 47 - Adding Motion blur to add a fiber esque effect
+
+Screenshot 48 - Duplicated layer and rotated 90 degress whilst lowering opacity to add a cross effect
+
+Screenshot 49 - Changed Hue and saturation to make the tezture darker
+
+Making Normal map
+
+Screenshot 50 - Generating Normal map from textures in photoshop
+
+Screenshot 51 - Adding maps to a material in 3ds max
+
+Screenshot 52 - Final Model
