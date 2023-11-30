@@ -71,3 +71,45 @@ Screenshot 31 - Finished Sorting first Segment
 Screenshot 32 - Stitched and unwrapped stairs portion of pagoda as well as deleting a few unecessary faces round the back
 
 Screenshot 33 - Stitched and unwrapped roof part of the model
+
+Screenshot 34 - Duplicated textured sections to avoid having to make multiple UV maps and multiple textures for each layer of the pagoda
+
+Making Wood Texture
+
+Screenshot 35 - Use render clouds feature
+
+Screenshot 36 - Used chrome filter on top of the rendered clouds to create a more organic looking pattern
+
+Screenshot 37 - Applied a fibers rendering effect and changed blending options to multiply for a darker looking effect
+
+Screenshot 38 - Added a solid colour layer above to choose the desired colour of the wood effect
+
+Screenshot 39 - Adjusted Colours to make a red variant
+
+Screenshot 40 - Adjusted Colours to make a white variant
+
+Screenshot 41 - Adjusted Colours to make a Green Variant
+
+Screenshot 42 - Moved the base textures to their relevant positions
+
+Screenshot 43 - Adding a bevel and shadow effect to the door texture to give it more depth
+
+Making Stone / slate texture
+
+Screenshot 44 - Rendering clouds as a base
+
+Screenshot 45 - Addeed a render lighting effect to give a rough rocky looking texture
+
+Screenshot 46 - Create a tile effect outline to use as as a part of my roofing texture
+
+Screenshot 47 - Added rock texture i made earlier underneath
+
+Screenshot 48 - Defined the texture as a pattern in photoshop
+
+Screenshot 49 - Applied the pattern to the roofs UV Map using the fill tool 
+
+Screenshot 50 - Generating Normal Maps in photoshop
+
+Screenshot 51 - Applying the normal Mapping and Diffuse mapping to the model
+
+Screenshot 52 - After applying all the textures (Final Product)
