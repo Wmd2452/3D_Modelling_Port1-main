@@ -1,0 +1,25 @@
+Screenshot 1 - Added Anatomy refrence images for creating a human character
+
+Screenshot 2 - Added a swift loop to hald the cube and applied a mirror modifier to duplicate changes on both sides of the cube model
+
+Screenshot 3 - Using loop cut to add geometry and using the move tool to form a basic torso shape by moving the vertices 
+
+Screenshot 4 - Moving vertices to create a larger square around where the arm will attach
+
+Screenshot 5 - Extruding the bottom down to represent the hips / pelvis region
+
+Screenshot 6 - Using Loop Cut to add more geometry then using the move tool create a protrusion in the back for the buttocks
+
+Screenshot 7 - Turned clipping off on the mirror modifier to extrude out the legs to ensure they were seperate from each other
+
+Screenshotm 8 - Used the scale tool to increase the size of the knee area
+
+Screenshot 9 - Using edge slide tool to adjust edge position to apply a more rounded look to my torso model
+
+Screenshot 10 - Extruding the arms from the model
+
+Screenshot 11 - Used loop cut tool on arms to add extra geometry then by using a combination of the scale rotate and move tools gave the arms a more defined look
+
+Screenshot 12 - Used the bevel tool to create geometry for where the neck will go
+
+Screenshot 13 - Extruded the neck and added geometry with the knife tool to represent the traps and the clavicle
