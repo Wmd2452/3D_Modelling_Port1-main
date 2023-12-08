@@ -13,3 +13,9 @@ Screenshot 6 - Beveled the bottom of the main supports using the extrude and bev
 Begin UV Unwrap
 
 Screenshot 7 - Adding seams to unwrap cylinders effectivley
+
+Screenshot 8 - creating a diffuse map for the torii gate using previously created wooden textures
+
+Screenshot 9 - Creating normal map
+
+Screenshot 10 - Applied Diffuse and normal maps

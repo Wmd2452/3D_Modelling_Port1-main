@@ -1,0 +1,15 @@
+Poly Count
+
+Human - 378 Poly
+
+Terrain - 2,500
+
+Pagoda - 8,710
+
+Lamp - 1,114
+
+Torii Gate - 740
+
+Katana - 424
+
+Total 13,866
