@@ -1,7 +1,0 @@
-Screenshot 1 - Created an airy sound by blowing into the microphone. Then imported into audacity and removed pauses betweeen sound
-
-Screenshot 2 - Crossfaded my two audio clips into one to create a gapless continuos sound effect
-
-Screenshot 3 - Added some distortion to the sound to mask the vocal sounding effects from the audio
-
-Screenshot 4 - Increased Pitch and speed to make a more intense sound effect more akin to rushing winds

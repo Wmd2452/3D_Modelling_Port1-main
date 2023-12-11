@@ -1,0 +1,105 @@
+Katana 1 - Shows the begining of my katana model
+
+Using Inset tool screenshot - Using inset and cut tool to remove Ngons from top and bottom of the cylinder
+
+screenshot 3 - Using an image to get the shape correct and modelling with planes and an edit poly modifier to get the shape of the blade bend correct
+
+screenshot 4 - using swift loop to add more geometry to the sword blade to form a more accurate shape
+
+screenshot 5 - basic blade shape with planes
+
+screenshot 6 - Use connect tool to add an additional line of geometry to form the second line in the katana
+
+screenshot 7 - Used the cutting tool to add aditional geometry to round off the edge and mkae it closer to a real katana
+
+Screenshot 8 - Used extrude tool to go from a plane to a 3d blade shape
+
+Screenshot 9 - Used Weld tool to weld edges of vertices to form a sharp blade edge
+
+Screenshot 10 - Started re doing the blade shape with boxes after running into issues with the planes based model from before
+
+Screenshot 11 - Added Symmetry modifier to the model and pulled the edges closer to weld and form a solid edge of the sword
+
+Screenshot 12 - Used connect tool to add more geometry alont the edge
+
+Screenshot 13 - Added more geometry to edge to create a smoother edge more in line with a katana
+
+Screenshot 14 - Pulled out center geometry to five the center of the word more girth and wight
+
+Screenshot 15 - Added more geometry along the word for greater curve and edge details
+
+Screenshot 16 - Duplicated the sword blade
+
+Screenshot 17 - Collapsed all layers in the duped blade down to one solid object
+
+Screenshot 18 - Seperated the end segment of the blade with the detatch tool  and deleted the rest to use as the tang gaurd of the blade to avoid having to model and scale a new primitive
+
+Screenshot 19 - Added a 2 new ctlinders a wider short cylinder for the gaurd and a longer thinner cylinder for the handle
+
+Screenshot 20 - Used the scale tool to increase the tang gaurd size to fit over the top of the blades butt
+
+Screenshot 21 - Deleted back end of the tang gaurd and the nlade as they will never be een to increase performance and lower poly count
+
+Screenshot 22 - Added a chamfer modifier to tang gaurd to add some soft rounding on the edges
+
+Screenshot 23 - Using the Extrude tool to form a gap in the tang gaurd to create a hole for the blade to slot into
+
+Screenshot 24 - Fixed an Ngon and raised the centre edge to add a triangular shape to the tang guard
+
+Screenshot 25 - Using inset and cutting tool to remove N gon from cylinder of the sword gaurd and the sword handle
+
+Screenshot 26 - Used the scale tool to elongate the handle cylinder to better represent the shape of the katana
+
+Screenshot 27 - Deleted the face of top handle as it will never be seen
+
+End OF Modelling Section 424 polys
+
+Texturing
+
+Screenshot 32 - exporting UVW Map as an image file for texturing
+
+Screenshot 33 - begin making a metallic texture by adding some gaussian noise to a dark background 
+
+Screenshot 34 - Adding motion blur create a more rough looking metallic surface
+
+Screenshot 35 - Applied a gray gradient on the layer above and changed the layer settings to overlay to give a more grayish effect
+
+Screenshot 36 - Increased brightness and lowered contrast  in the properties menu to achieve a brighter and less grainy effect
+
+Screenshot 37 - Added a Mandala Symmetry modifier to photoshop to create the gaurd pattern for the katana
+
+Screenshot 38 - Drew Gaurd Pattern
+
+Screenshot 39 - Duplicated Gaurd pattern
+
+making gold textture
+
+Screenshot 40 - Begin making gold texture by taking a stock image from adobe stock (will need to refrence in report probably)
+
+Screenshot 41 - Added Gaussian blur
+
+Screenshit 42 - Used Liquify tool to create a random pattern for the gold
+
+Screenshot 43 - Used Filter tool to apply distortion and create a more textured looking surface
+
+Screenshot 44 - Used a gradient map to choose more yellow and brown colours to create a golden effect
+
+Screenshot 45 - Applied gold texture to the various parts that will use it
+
+Making fabric Texture for handle
+
+Screenshot 46 - Takeing a base colour and applying noise to begin the process of creating a fabric texture
+
+Screenshot 47 - Adding Motion blur to add a fiber esque effect
+
+Screenshot 48 - Duplicated layer and rotated 90 degress whilst lowering opacity to add a cross effect
+
+Screenshot 49 - Changed Hue and saturation to make the tezture darker
+
+Making Normal map
+
+Screenshot 50 - Generating Normal map from textures in photoshop
+
+Screenshot 51 - Adding maps to a material in 3ds max
+
+Screenshot 52 - Final Model
