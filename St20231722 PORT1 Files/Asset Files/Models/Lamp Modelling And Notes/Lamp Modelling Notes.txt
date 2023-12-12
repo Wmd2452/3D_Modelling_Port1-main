@@ -1,0 +1,65 @@
+Screenshot 1 - Beginning of modelling a japanese temple lamp starting with a cube as tge beginning of the build
+
+Screenshot 2 - Added Edit Poly and Symmetry modifier to evenly form the shape of the cube to my desired result
+
+Screenshot 3 - Used Inset and extrude to place an indent in the cube for where the lamp windows will be
+
+Screenshot 4 - Added four more elongated cubes to surround the base of the lamp
+
+Screenshot 5 - Added a flat cube to sit the lamp and base on top of
+
+Screenshot 6 - Added a long flat cube and used the pivot point to duplictae it on the opposite side of the model
+
+Screenshot 7 - Added a cube to fill the gap between the roff and edited the position of the verticies to fill the gap correctly
+
+Screenshot 8 - Added additional geometry to the roof with swift loop to curve the shape and then added a turbo smooth modifier to give a smooth curving effect
+
+SWITCHED TO BLENDER
+
+Screenshot 9 - Created a cube and stretched it flat in edit mode then used loop cut (swift loop) to create a jagged edge pattern and used bevel edges (chamfer) tp smooth the edges and create a smoother looking texture for my lamp wings
+
+Screenshot 10 - Duplicated the lamp wings and used a mirror modifier to position them simultaineosly in the centre of the lamp stand
+
+Screensgot 11 - Changed some vertices positions and applied another subdivision surface modifier (turbosmooth)to create a more prominent curve in the roofs shape
+
+Screenshot 12 - Modified a cube with a basic ornamental pattern using the loop cut (swift loop) tool and the move tool to create a jagged orbament that hangs drom the roof
+
+Screenshot 13 - Applied a mirror modifier to mirror the shape onto the other side of the roof
+
+Screenshot 14 and 15 - Removing some unecessary faces to save on poly count aswell as rendering time
+
+Screenshot 16 - Used the shrink / flatten tool to add more diameter to the bottom part of the post holding the lamp ro give a more prominent sturdy looking base as well as adding another cube for a more realistic look based off of actual examples and designs
+
+UV Unwrapping from here on out
+
+Screenshot 17 - Applied the base blender UV unwrap texture and flattened the mapping of one of my lamp portions to begin the process of sorting and stitching edges
+
+Screenshot 18 - Stitching some edges together to creat a smooth continuous surface for texturing
+
+Screenshot 19 - Made HIghlighted section of the model take up more UV space as it will need a greater level of detail than the other parts of the model
+
+Screenshot 20 - UV unwrapped and stitched roof faces
+
+Screenshot 21 - Unwrapped and stitched the roof struts and roof ornaments in the same UV Map as they are both small portions of the model they did not neeed to have their own seperate maps
+
+Screenshot 22 - Unwrapped and stitched the roof gap and base models into one UV map
+
+Screenshot 23 - Unwrapped and stitched the wings and the roof adornment 
+
+Texture Making 
+
+Screenshot 24 - Import Previously made textures and cut the darker wood texture into strips to create a cage effect for the front and backs of the lamp
+
+Screenshot 25 - Creating an emission Map using the grid made earlier as a template
+
+Screenshot 26 - Emission Map for the lamp made
+
+Screenshot 27 - Generating Normal Map for the lamp body
+
+Screenshot 28 and 31 Applied all the maps to the body section
+
+Screenshot 29 - Using pattern made before to fill a space for the roof texture
+
+Screenshot 30 - Generating Normal map for roof texture
+
+Screenshot 32 - Applied all my various maps and textures to my lmap model

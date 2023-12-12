@@ -1,0 +1,56 @@
+Screenshot 1 - Added Anatomy refrence images for creating a human character
+
+Screenshot 2 - Added a swift loop to hald the cube and applied a mirror modifier to duplicate changes on both sides of the cube model
+
+Screenshot 3 - Using loop cut to add geometry and using the move tool to form a basic torso shape by moving the vertices 
+
+Screenshot 4 - Moving vertices to create a larger square around where the arm will attach
+
+Screenshot 5 - Extruding the bottom down to represent the hips / pelvis region
+
+Screenshot 6 - Using Loop Cut to add more geometry then using the move tool create a protrusion in the back for the buttocks
+
+Screenshot 7 - Turned clipping off on the mirror modifier to extrude out the legs to ensure they were seperate from each other
+
+Screenshotm 8 - Used the scale tool to increase the size of the knee area
+
+Screenshot 9 - Using edge slide tool to adjust edge position to apply a more rounded look to my torso model
+
+Screenshot 10 - Extruding the arms from the model
+
+Screenshot 11 - Used loop cut tool on arms to add extra geometry then by using a combination of the scale rotate and move tools gave the arms a more defined look
+
+Screenshot 12 - Used the bevel tool to create geometry for where the neck will go
+
+Screenshot 13 - Extruded the neck and added geometry with the knife tool to represent the traps and the clavicle
+
+Screenshot 14 - Added a cube mesh and applied a subdivision mdofier to round it out which will be used to model the characters head
+
+Screenshot 15 - Added a mirror modifier and facial geometry and adjusted with the move and scake tools used the inset tool to add a border to the bottom part of the head and cut out the centre to allow room for the head to be joined with the body later on
+
+Screenshot 16 - Joined the two objects together and then used the fill tool to fill in the faces connecting the neck and head
+
+Screenshot 17 - Extruded out the feet and changed their shape with a combination of scaleing and moving vertices that were created using the knife and the loop cut tool
+
+Screenhsot 18 - Extruded the arm out and used the rotate and scale tool to form a hand shape
+
+Screenshot 19 - Finished Modelling the character
+
+Character Rigging / Animation
+
+Screenshot 20 - Begun process of character rigging by creating an armature
+
+Screenshot 21 - Aligned bones to world grid
+
+Screenshot 22 - Extruding Bones for the legs
+
+Screenshot 23 - Extruded bones for the spine added more smaller bones to the bottom near the stomach and hips as it typically will be used to display more minor movments
+
+Screenshot 24 - Applied a keep offset modifier to connecting bone groups
+
+Screenshot 25 - Applies automatic weights to skin mesh and bind to the bones
+
+Screenshot 26 - Using Bones to animate different body parts
+
+Video 1 - Showcase of final animation
+
